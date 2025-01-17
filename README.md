@@ -7,5 +7,5 @@
 
 ### 👀 Visitor Counter
 <p align="left">
-    <img src="https://hits.sh/akinprojenet/akinprojenet.github.io.svg?style=for-the-badge&label=Visitors&color=white&logo=github" alt="Visitors">
+    <img src="https://hits.sh/akinprojenet/akinprojenet.github.io.svg?label=Visitors&color=blue&logo=github" alt="Visitors">
 </p>
