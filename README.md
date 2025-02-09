@@ -4,8 +4,3 @@
 </p>
 
 <p align="center">💡 Exploring the Future of AI 🌍</p>
-
-### 👀 Visitor Counter
-<p align="left">
-    <img src="https://hits.sh/akinprojenet/akinprojenet.github.io.svg?label=Visitors&color=blue&logo=github" alt="Visitors">
-</p>
